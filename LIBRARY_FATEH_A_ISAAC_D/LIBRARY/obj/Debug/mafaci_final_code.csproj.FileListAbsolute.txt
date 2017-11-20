@@ -1,0 +1,31 @@
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\bin\Debug\bookimages\1984.jpg
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\bin\Debug\bookimages\beginningsharp.jpg
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\bin\Debug\bookimages\ishmael.jpg
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\bin\Debug\bookimages\life of pi.jpg
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\bin\Debug\bookimages\the alchemist.jpg
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\bin\Debug\mafaci_final_code.exe.config
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\bin\Debug\mafaci_final_code.exe
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\bin\Debug\mafaci_final_code.pdb
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\bin\Debug\Newtonsoft.Json.dll
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\bin\Debug\Newtonsoft.Json.xml
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\mafaci_final_code.csprojResolveAssemblyReference.cache
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\Bookpage.g.cs
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\Bookshelf.g.cs
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\Homepage.g.cs
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\mainwindow.g.cs
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\ModifyBook.g.cs
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\App.g.cs
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\mafaci_final_code_Content.g.cs
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\mafaci_final_code_MarkupCompile.cache
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\mafaci_final_code_MarkupCompile.lref
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\Bookpage.baml
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\Bookshelf.baml
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\Homepage.baml
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\mainwindow.baml
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\ModifyBook.baml
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\mafaci_final_code.g.resources
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\mafaci_final_code.Properties.Resources.resources
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\mafaci_final_code.csproj.GenerateResource.Cache
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\mafaci_final_code.csproj.CoreCompileInputs.cache
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\mafaci_final_code.exe
+E:\JuicyBits-bac387_mafaci-9ca3d74d8204\mafaci_final_code\mafaci_final_code\obj\Debug\mafaci_final_code.pdb
